@@ -1,8 +1,8 @@
 Package: com.oakstheawesome.test
-Name: Test'
+Name: Test
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Practice tweak to get grasp of basics.
 Maintainer: OaksTheAwesome
 Author: OaksTheAwesome
 Section: Tweaks
